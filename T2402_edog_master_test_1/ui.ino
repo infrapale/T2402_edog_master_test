@@ -1,4 +1,4 @@
-
+/*
 bool read_hex_array(uint8_t *arr, uint8_t nbr)
 {
   String StrArray;
@@ -287,6 +287,6 @@ void send_receive_i2c(void)
   }
   delay(50);
 }
-
+*/
 
 
